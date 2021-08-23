@@ -1,0 +1,19 @@
+{
+    "home"                             : "ألرئيسية",
+    "login"                            : "الدخول",
+    "Logout"                           : "الخروج",
+    "signup"                           : "تسجيل",
+    "about"                            : "حول",
+    "firstname"                        : "الاسم الاول",
+    "lastname"                         : "الاسم الاخير",
+    "username"                         : "اسم المستخدم",
+    "email"                            : "البريد الالكتروني",
+    "password"                         : "كلمة المرور",
+    "re enter the password"            : "اعد كتابة كلمة المرور",
+    "sign"                             : "تسجيل",
+    "feed"                             : "الاخبار",
+    "enter the following informations" : "قم بأدخال المعلومات المطلوبة",
+    "ltr"                              : "rtl",
+    "english"                          : "الانكليزية",
+    "arabic"                           : "العربية"
+}
